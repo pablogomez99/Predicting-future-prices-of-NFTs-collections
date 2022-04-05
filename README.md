@@ -1,0 +1,1 @@
+# Predicting-future-prices-of-NFTs-collections
